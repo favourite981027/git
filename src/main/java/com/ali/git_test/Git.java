@@ -10,5 +10,6 @@ public class Git {
         System.out.println("second commit");
         System.out.println("third commit");
         System.out.println("hot-fix");
+        System.out.println("master vim");
     }
 }
