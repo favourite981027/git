@@ -11,5 +11,6 @@ public class Git {
         System.out.println("third commit");
         System.out.println("hot-fix");
         System.out.println("conflict test");
+        System.out.println("pull test");
     }
 }
